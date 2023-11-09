@@ -6,49 +6,69 @@ title: Hobbies
 
 # Hobbies
 
-## Teaching & Workshops
+## Playing the piano
 
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
+![](https://yihanli126.github.io/images/piano_1.JPG)  |  ![](https://yihanli126.github.io/images/piano_2.JPG)
+![](https://yihanli126.github.io/images/piano_3.JPG)  |  ![](https://yihanli126.github.io/images/piano_4.JPG)
 
-[a fantastic speech]:https://youtu.be/Dzx84KpGNoE
-[best universities in my hometown]:https://www.fzu.edu.cn/
-
-
-
-## Swimming & Surfing
-
-<div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
-</div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my swimming career. Recently, I am also keen on surfing.
-
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-This is my love. Her name is Qbo (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
 <br>
 
-## Chat with me
+I'm a member of Xi'an Jiaotong University Piano Salon, and I've be playing piano for years since I was a child! I love it! Here are some photos of me from the concerts we held.
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
+<br>
 
-<!-- Calendly inline widget begin -->
+A video of me playing Beethoven's *Sonata No. 8 in C Minor, Op. 13, "Pathétique": II. Adagio cantabile* can be found [here](https://b23.tv/aqQGNgc)
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+
+
+## Singing
+
+<center>
+<img src="/images/sing_1.JPG" style="width:60%; height:auto; max-width:100%">
+</center>
+
+<center>
+<img src="/images/sing_2.JPG" style="width:60%; height:auto; max-width:100%">
+</center>
+
+<center>
+<img src="/images/sing_3.JPG" style="width:60%; height:auto; max-width:100%">
+</center>
+
+<br>
+
+Here are some photos from our class concert. I started learning to sing when I was in my last year of high school, and I've kept taking singing classes during my undergraduate time. I really love it!
+
+## Composing
+
+<center>
+<img src="/images/compose_1.jpg" style="width:100%; height:auto; max-width:100%">
+</center>
+
+<center>
+<img src="/images/compose_2.jpg" style="width:100%; height:auto; max-width:100%">
+</center>
+
+<center>
+<img src="/images/compose_3.jpg" style="width:67%; height:auto; max-width:100%">
+</center>
+
+<!-- <div class="third">
+<img src="/images/compose_1.jpg">
+<img src="/images/compose_2.jpg">
+<img src="/images/compose_3.jpg">
+</div> -->
+
+<br>
+
+I'm also a composing lover! Creating music is cool for me! Here is a piece of music score of a trio recomposed by me from *A Thousand Years*, inspired by the video [here](https://b23.tv/8kYiIip). If you also happen to love music, the full score is [here](https://yihanli126.github.io/file/A_Thousand_Years.pdf) free for you. You are always welcome to play it!
+
+
+## Museum Tour 
+
+
+
+
+
+
 
